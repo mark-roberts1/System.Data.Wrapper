@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "System.Data.Wrapper", "System.Data.Wrapper\System.Data.Wrapper.csproj", "{BAFCB516-82F9-421F-9B8B-0F8A7981E11D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "System.Data.SqlClient.Wrapper", "System.Data.SqlClient.Wrapper\System.Data.SqlClient.Wrapper.csproj", "{2028BC38-20DF-4D06-A7C5-B5F7295D427E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFCB516-82F9-421F-9B8B-0F8A7981E11D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFCB516-82F9-421F-9B8B-0F8A7981E11D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFCB516-82F9-421F-9B8B-0F8A7981E11D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFCB516-82F9-421F-9B8B-0F8A7981E11D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2028BC38-20DF-4D06-A7C5-B5F7295D427E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2028BC38-20DF-4D06-A7C5-B5F7295D427E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2028BC38-20DF-4D06-A7C5-B5F7295D427E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2028BC38-20DF-4D06-A7C5-B5F7295D427E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35509C9A-711B-4001-9B36-C85D27837D99}
+	EndGlobalSection
+EndGlobal
